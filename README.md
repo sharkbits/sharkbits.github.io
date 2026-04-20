@@ -42,7 +42,7 @@ Below is my code review of the original artifact, walking through existing
 functionality, identifying weaknesses, and outlining planned enhancements
 across all three categories.
 
-[▶ Watch the code review](https://vimeo.com/1184682232?share=copy&fl=sv&fe=ci)
+[▶ Watch the code review](https://vimeo.com/1184682232)
 
 [⬆ Back to top](#contents)
 
@@ -78,6 +78,8 @@ writing particle positions and widget content in separate passes before a single
 territory that deepened my understanding of how game-loop style rendering works in practice.
 
 🔗 [Enhanced code on GitHub](https://github.com/sharkbits/CS499---Code-Enhancement)
+🔗 [Original C++ code](https://github.com/sharkbits/CS499---Code-Enhancement/tree/main/original%20src)
+
 
 [⬆ Back to top](#contents)
 
@@ -111,6 +113,8 @@ verifying behavior across midnight boundaries before trusting it, since the orig
 logic had handled that implicitly.
 
 🔗 [Enhanced code on GitHub](https://github.com/sharkbits/CS499---Code-Enhancement)
+🔗 [Original C++ code](https://github.com/sharkbits/CS499---Code-Enhancement/tree/main/original%20src)
+
 
 [⬆ Back to top](#contents)
 
@@ -146,6 +150,7 @@ was a practical trade-off that meaningfully reduced network overhead and made th
 more predictable.
 
 🔗 [Enhanced code on GitHub](https://github.com/sharkbits/CS499---Code-Enhancement)
+🔗 [Original C++ code](https://github.com/sharkbits/CS499---Code-Enhancement/tree/main/original%20src)
 
 [⬆ Back to top](#contents)
 
